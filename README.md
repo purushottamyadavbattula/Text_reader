@@ -1,0 +1,2 @@
+# Text_reader
+OCR
